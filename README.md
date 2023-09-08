@@ -1,1 +1,1 @@
-Starting to learn C with ALX
+Learning variables, if_else, while statements
