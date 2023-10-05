@@ -1,1 +1,1 @@
-Learning variables, if_else, while statements
+Readme file for dynamic memory allocation
